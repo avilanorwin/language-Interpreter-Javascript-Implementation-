@@ -3,7 +3,6 @@
 // Simple Languaguage Interpreter
 // Author: Norwin Avila
 // Date  : 10/4/2016
-// Copyright (c) 2016 Accenture Philippines
 //
 //-----------------------------------------------
 var program = new Object();
